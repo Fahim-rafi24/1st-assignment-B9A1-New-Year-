@@ -1,0 +1,216 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+main{
+    background-color: aqua;
+    border-top-right-radius: 120px;
+    border-top-left-radius: 120px;
+}
+
+/* header-part */
+
+
+#header-contener-1st{
+    margin: 10px 140px 0px 260px;
+    width: 1320px;
+    height: 600px;
+    background-image: url(media/image/banner.png);
+    background-size: cover;
+    background-position: center;
+}
+.header-contener-1st-h4{
+font-size: 30px;
+    font-weight: 60px;
+    line-height: 60px;
+    padding-top: 177px;
+    font-family: Merriweather;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+}
+.header-contener-1st-h2{
+    font-size: 60px;
+    font-weight: 90;
+    line-height: 60px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    font-family: Merriweather;
+}
+#header-contener-2th{
+    margin: 200px 140px 50px 260px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+    font-size: 1.7rem;
+}
+
+#header-contener-3th{
+    margin: 200px 140px 50px 260px;
+    width: 1320px;
+    height: 600px;
+    color: white;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    background-image: url(media/image/vectory.png);
+
+}
+.header-contener-3th-left{
+    padding: 10% 10% 4% 10%;
+    font-size: 1.3rem;
+}
+.header-contener-3th-right{
+    padding-top: 6% ;
+    padding-right: 10%;
+}
+
+/* main-part */
+/* main{
+    border: 2px solid black;
+    padding-top: 10px;
+} */
+#main-contener-1st{
+    background-color: rgb(255, 205, 208);
+    margin: 120px 10px 0px 260px;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.7rem;
+}
+.main-contener-1st span{
+    color: red;
+}
+.main-contener-1st{
+    padding: 100px 30px 20px 30px;
+    line-height: 60px;
+}
+#main-contener-2th{
+    margin: 50px 140px 0px 260px;
+    width: 1320px;
+    height: 482px;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+}
+.main-contener-2th-1div{
+    padding: 60px 250px 0px 20px;
+    font-size: 1.1rem;
+}
+.main-contener-2th-1div h4{
+    color: red;
+}
+.main-contener-2th-1div p{
+    color: gray;
+}
+.main-contener-2th-2div{
+    padding: 60px 230px 0px 20px;
+}
+.main-contener-2th-3div{
+    padding: 60px 20px 0px 20px;
+}
+.main-contener-2th-3div p{
+    color: gray;
+}
+.main-contener-2th-3div h1{
+    color: red;
+}
+#main-contener-3th{
+    margin: 150px 140px 0px 270px;
+    width: 1320px;
+    text-align: center;
+}
+.main-contener-3th{
+    font-size: 1.8rem;
+}
+.main-contener-3th span{
+    color: red;
+}
+.main-contener-3th-p{
+    color: gray;
+}
+
+#main-contener-4th{
+    margin: 100px 10px 50px 260px;
+    /* margin: 1000px 10px 1000px 260px; */
+    width: 1320px;
+    height: 0px;
+    flex-shrink: 0;
+    /* background-image: url(media/image/main.png); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 250% 150%
+}
+/* .main-contener-4th-top-img{
+    margin-left: 400px;
+    padding-bottom: 70px;
+}
+#main-contener-4th .main-contener-4th-top-img{
+    padding: 400px 40px 50px 300px;
+}
+.main-contener-4th-top{
+    background-image: url(media/image/Rectangle\ 1.png);
+}
+.main-contener-4th-bottom{
+    background-image: url(media/image/Rectangle\ 2.png);
+    margin-top: 60px;
+    height: 180px;
+    width: 1320;
+} */
+
+
+#main-contener-5th{
+    margin: 150px 10px 50px 300px;
+    width: 1320px;
+}
+.main-contener-5th-h4{
+    color: red;
+}
+.main-contener-5th-font{
+    font-size: 1.3rem;
+}
+#main-contener-6th{
+    margin: 350px 0px 50px 250px;
+    width: 1320px;
+    margin: auto;
+    padding-left: 30px;
+}
+/* background-size: cover;
+background-position: center; */
+
+
+
+
+
+
+
+
+
+
+/* it is first */
+
+
+
+
+#main-contener-7th{
+    border: 1px solid;
+    margin: 50px 140px 100px 290px;
+    border-radius: 80px;
+    background-color: rgb(255, 205, 208);
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.main-contener-7th-img{
+    
+}
